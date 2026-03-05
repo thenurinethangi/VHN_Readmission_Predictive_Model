@@ -8,6 +8,15 @@ Furthermore, to ensure these analytical insights translate into seamless operati
 
 ---
 
+## Technologies & Tools
+
+- **Programming Language:** Python
+- **Data Manipulation & Analysis:** NumPy, Pandas
+- **Data Visualization:** Matplotlib, Seaborn
+- **Web Scraping & Data Extraction:** `requests`, BeautifulSoup
+
+---
+
 ## Analytical Methodology
 
 Developing this predictive model required transitioning raw, disparate clinical logs into a polished, executive-grade analytical asset. This was achieved through a rigorous five-step methodological framework:
@@ -110,3 +119,5 @@ Bridging the gap between raw data science and executive action, we recommend the
 - `num_lab_procedures` & `num_medications`: Clinical intensity tracking.
 - `number_emergency`: Number of ED visits in the prior year.
 - `readmitted`: Target variable (`NO`, `>30`, `<30` days).
+
+
